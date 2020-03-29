@@ -1,0 +1,23 @@
+#define bg          #222D31
+#define fg          #d8d8d8
+
+
+
+#define black1      #222D31 
+#define black2      #585858 
+#define red1        #ab4642
+#define red2        #ab4642
+#define green1      #7E807E
+#define green2      #8D8F8D
+#define yellow1     #f7ca88
+#define yellow2     #f7ca88
+#define blue1       #7cafc2
+#define blue2       #7cafc2
+#define magenta1    #ba8baf
+#define magenta2    #ba8baf
+#define cyan1       #1ABB9B
+#define cyan2       #1ABB9B
+#define white1      #d8d8d8
+#define white2      #f8f8f8
+
+

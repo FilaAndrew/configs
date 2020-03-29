@@ -1,0 +1,7 @@
+XTerm*background:           bg
+XTerm*foreground:           fg
+XTerm*pointerColor:         cyan1
+XTerm*faceName:             Fixed
+XTerm*faceSize:             11
+XTerm*reverseVideo:         on
+XTerm*selectToClipboard:    true

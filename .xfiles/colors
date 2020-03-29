@@ -1,0 +1,27 @@
+*background: bg
+*forground: fg
+*cursorColor: fg
+*cursorColor2: bg
+
+*fading:                    8
+*fadeColor:                 black
+*pointerColorBackground:    #2B2C2B
+*pointerColorForeground:    #16A085
+
+
+*color0: black1 
+*color1: red1
+*color2: green1
+*color3: yellow1
+*color4: blue1
+*color5: magenta1
+*color6: cyan1
+*color7: white1
+*color8: black2
+*color9: red2
+*color10: green2
+*color11: yellow2
+*color12: blue2
+*color13: magenta2
+*color14: cyan2
+*color15: white2

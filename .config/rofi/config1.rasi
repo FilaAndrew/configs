@@ -1,0 +1,65 @@
+configuration {
+    font: "noto-cjk 15";
+    fullscreen: true;
+    show-icons: true;
+    drun-window-format: "{t}";
+    modi: "drun";
+}
+ 
+* {
+    background-color: rgba(100, 100, 100, 10%); 
+    text-color: #fff;
+}
+ 
+window {
+    //background-color: rgba(0, 0, 0, 30%);
+    location: north;
+    width: 2560;
+}
+ 
+mainbox {
+    children: [ inputbar, listview ]; 
+    padding: 0 0 90 0;
+}
+ 
+listview {
+    columns: 0;
+    layout: vertical;
+    spacing: 70;
+    padding: 70;
+}
+ 
+element {
+    border-radius: 4;
+    orientation: vertical;
+    padding: 20 0;
+    text-color: #fff;
+}
+ 
+element selected {
+    background-color: rgba(255, 255, 255, 10%);
+    text-color: #f92672;
+}
+ 
+element-icon {
+    size: 64;
+}
+ 
+element-text {
+    horizontal-align: 0.5;
+    padding: 10 0 0 0;
+    text-color: inherit;
+}
+ 
+inputbar {
+    background-color: rgba(0, 0, 0, 0%);
+    border-radius: 4;
+    margin: 500 700;
+    // margin: 0 1100;
+    //padding: 10 12;
+    position: north;
+}
+ 
+prompt {
+    enabled: true;
+}
